@@ -6,7 +6,7 @@ namespace = "gogas1"
 name = "Top10Reasons"
 versionNumber = "0.1.0"
 description = "Top10Reasons"
-websiteUrl = "link to the git repo"
+websiteUrl = "https://github.com/Gogas1/TopTenReasons"
 containsNsfwContent = false
 
 [package.dependencies]
